@@ -1,0 +1,3 @@
+#!C:\Users\acey2\OneDrive\Documents\GitHub\curvature-detection\Tracking\Scripts\python.exe
+from numba.pycc import main
+main()
